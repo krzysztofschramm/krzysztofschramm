@@ -31,17 +31,12 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
    - web debugging proxy
      - Charles Proxy and Fiddler
    - personally identifiable information (PII)
-   - computer testing
-   - mobile device testing
    - charles proxy testing
    - payment testing
-   - Amazon Alexa testing
    - API testing
    - usability testing
-   - online gambling testing
    - voice testing
    - localization testing
-   - streaming apps tesing
 - <b>Learning SQL by Ben Forta (O'Reilly)</b>
    - retrieve data using the SQL SELECT statement
    - sort, filter, and manipulate data
@@ -72,7 +67,6 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
 - basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
 - API testing
 - communicative English
-- 
 ## Tools
 - PyCharm
 - Django
