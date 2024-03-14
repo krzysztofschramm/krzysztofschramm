@@ -71,6 +71,7 @@ Strongly motivated junior software tester with a solid theoretical background, w
 - knowledge of Syllabus ISTQB Foundation level
 - basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
 - API testing
+- communicative English
 - 
 ## Tools
 - PyCharm
@@ -85,4 +86,5 @@ Strongly motivated junior software tester with a solid theoretical background, w
 - Postman
 - Selenium
 - Selenium IDE
+- Chrome Devtools
 
