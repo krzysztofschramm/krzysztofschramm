@@ -6,7 +6,7 @@ Strongly motivated junior software tester with a solid theoretical background, w
 
 ## Courses
 - SQL and Databases Basics Full Course
-   -  
+   - sdsadasd
 - Basics of manual testing (Udemy)
    - testing web applications
    - testing theory
