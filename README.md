@@ -1,4 +1,4 @@
-# Hello, i'm Krzysztof Schramm and this is my PORTFOLIO
+# Hello, I'm Krzysztof Schramm and this is my PORTFOLIO
 <a href="https://www.linkedin.com/in/krzysztof-s-6b6a97288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
 ## About me
