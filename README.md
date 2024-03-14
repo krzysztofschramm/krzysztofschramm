@@ -1,18 +1,24 @@
-# Hi there, i'm Krzysztof Schramm
+# Hi there, i'm Krzysztof Schramm and this is my PORTFOLIO
 <a href="https://www.linkedin.com/in/krzysztof-s-6b6a97288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
 ## About me
 Strongly motivated junior software tester with a solid theoretical background, who is developing towards automated testing. The areas related to software development, specifically its quality, are fields that interest me, and in which I actively expand my skills and knowledge.
 
 ## Courses
-- GitHub Fundamentals Bootcamp by Brent Laster (O'Reilly)
-- Programming with Python: Beyond the Basics by Adrianne Dee (O'Reilly)
-- API Testing with Postman by Dave Westerveld (O'Reilly)
-  - Effectively test an API so that you contribute to high-quality software
-  - Rapidly resolve issues in an API using Postman
-  - Create regression tests with Postman for your API that will help your team move ahead with confidence
-  - Explore, visualize, and debug your API during development so that you don’t need to revisit the design later
-- uTest Academy
+- <b>GitHub Fundamentals Bootcamp by Brent Laster (O'Reilly)</b>
+  - work fluently in GitHub to do software development
+  - take advantage of GitHub’s advanced features, such as Codespaces and Copilot
+  - understand how to do additional automation tasks through GitHub
+- <b>Programming with Python: Beyond the Basics by Adrianne Dee (O'Reilly)</b>
+  - how to read and write to CSV files
+  - how to install libraries and make HTTP requests using the requests library
+  - the basics of HTML and how to scrape a website
+- <b>API Testing with Postman by Dave Westerveld (O'Reilly)</b>
+  - effectively test an API so that you contribute to high-quality software
+  - rapidly resolve issues in an API using Postman
+  - create regression tests with Postman for your API that will help your team move ahead with confidence
+  - explore, visualize, and debug your API during development so that you don’t need to revisit the design later
+- <b>uTest Academy</b>
    - Participating in live test cycles
    - Testing Basics
    - AcademyBugs.com
@@ -46,7 +52,7 @@ Strongly motivated junior software tester with a solid theoretical background, w
    - Voice Testing
    - Localization Testing
    - Streaming Apps Tesing
-- SQL and Databases Basics Full Course
+- <b>SQL and Databases Basics Full Course</b>
    - Introduction do Databases
    - SQL Syntax and Statements
    - Data Manipulation
@@ -56,7 +62,7 @@ Strongly motivated junior software tester with a solid theoretical background, w
    - Data Filtering and Sorting
    - Data Aggregation and Grouping
    - Database Management
-- Basics of manual software testing (Udemy)
+- <b>Basics of manual software testing (Udemy)</b>
    - testing web applications
    - testing theory
    - writing test cases
