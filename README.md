@@ -5,6 +5,13 @@
 Strongly motivated junior software tester with a solid theoretical background, who is developing towards automated testing. The areas related to software development, specifically its quality, are fields that interest me, and in which I actively expand my skills and knowledge.
 
 ## Courses
+- GitHub Fundamentals Bootcamp by Brent Laster (O'Reilly)
+- Programming with Python: Beyond the Basics by Adrianne Dee (O'Reilly)
+- API Testing with Postman by Dave Westerveld (O'Reilly)
+  - Effectively test an API so that you contribute to high-quality software
+  - Rapidly resolve issues in an API using Postman
+  - Create regression tests with Postman for your API that will help your team move ahead with confidence
+  - Explore, visualize, and debug your API during development so that you don’t need to revisit the design later
 - uTest Academy
    - Participating in live test cycles
    - Testing Basics
