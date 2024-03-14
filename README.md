@@ -63,4 +63,26 @@ Strongly motivated junior software tester with a solid theoretical background, w
    - Jira
    - Selenium IDE
    - Postman
+## Tech skills
+- Python
+- SQL
+- HTML/CSS basics
+- knowledge of testing procedures and the creation of test documentation
+- knowledge of Syllabus ISTQB Foundation level
+- basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
+- API testing
+- 
+## Tools
+- PyCharm
+- Django
+- MySQL
+- GitHub
+- SQlite
+- Bootstrap 5
+- Trello
+- SLack
+- qTest
+- Postman
+- Selenium
+- Selenium IDE
 
