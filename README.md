@@ -14,54 +14,54 @@ Strongly motivated junior software tester with a solid theoretical background, w
   - how to install libraries and make HTTP requests using the requests library
   - the basics of HTML and how to scrape a website
 - <b>API Testing with Postman by Dave Westerveld (O'Reilly)</b>
-  - effectively test an API so that you contribute to high-quality software
+  - effectively test an API 
   - rapidly resolve issues in an API using Postman
-  - create regression tests with Postman for your API that will help your team move ahead with confidence
-  - explore, visualize, and debug your API during development so that you don’t need to revisit the design later
+  - create regression tests with Postman for your API 
+  - explore, visualize, and debug your API during development
 - <b>uTest Academy</b>
-   - Participating in live test cycles
-   - Testing Basics
+   - participating in live test cycles
+   - testing basics
    - AcademyBugs.com
      - an interactive website that teaches what bugs are and how to report them
-   - Bug Reports
+   - bug reports
      - all about bug reports
-   - Screenshots
+   - screenshots
      - what are screenshots and how to capture them
-   - Screen Recordings
+   - screen recordings
      - what are screen recordings and how to record them
-   - Browser Logs
+   - browser logs
      - what are logs and how to collect logs within different browsers
-   - Mobile Device Logs
+   - mobile device logs
      - how to collect android and iOS device logs
-   - Web Debugging Proxy
+   - web debugging proxy
      - how collect web debugging proxy logs using Charles Proxy and Fiddler
-   - Personally Identifiable Information (PII)
+   - personally identifiable information (PII)
      - what is personally identifiable information and how to protect it
-   - Computer Testing
-   - Mobile Device Testing
-   - Charles Proxy Testing
-   - Payment Testing
+   - computer testing
+   - mobile device testing
+   - charles proxy testing
+   - payment testing
      - what Payment Testing is
-   - Amazon Alexa Testing
+   - Amazon Alexa testing
      - introduces you to Amazon Alexa, teaches the basics of how to use it and how to work with it
-   - API Testing
+   - API testing
      - basics of HTTP protocol and using an API testing tool
-   - Usability Testing
+   - usability testing
      - basics of usability testing and how to succeed in usability test cycles
-   - Online Gambling Testing
-   - Voice Testing
-   - Localization Testing
-   - Streaming Apps Tesing
+   - online gambling testing
+   - voice testing
+   - localization testing
+   - streaming apps tesing
 - <b>SQL and Databases Basics Full Course</b>
-   - Introduction do Databases
-   - SQL Syntax and Statements
-   - Data Manipulation
-   - Data Definition
-   - Data Retrieval
-   - Joins and Relationships
-   - Data Filtering and Sorting
-   - Data Aggregation and Grouping
-   - Database Management
+   - introduction do databases
+   - SQL syntax and statements
+   - data manipulation
+   - data definition
+   - data retrieval
+   - joins and relationships
+   - data filtering and sorting
+   - data aggregation and grouping
+   - database management
 - <b>Basics of manual software testing (Udemy)</b>
    - testing web applications
    - testing theory
