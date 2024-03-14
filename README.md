@@ -1,8 +1,8 @@
-# Hi there, i'm Krzysztof Schramm and this is my PORTFOLIO
+# Hello, i'm Krzysztof Schramm and this is my PORTFOLIO
 <a href="https://www.linkedin.com/in/krzysztof-s-6b6a97288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
 ## About me
-Strongly motivated junior software tester with a solid theoretical background, who is developing towards automated testing. The areas related to software development, specifically its quality, are fields that interest me, and in which I actively expand my skills and knowledge.
+Strongly motivated junior software tester candidate with a solid theoretical background, who is developing towards automated testing. The areas related to software development, specifically its quality, are fields that interest me, and in which I actively expand my skills and knowledge.
 
 ## Courses
 - <b>GitHub Fundamentals Bootcamp by Brent Laster (O'Reilly)</b>
@@ -87,4 +87,7 @@ Strongly motivated junior software tester with a solid theoretical background, w
 - Selenium
 - Selenium IDE
 - Chrome Devtools
-
+## My projects
+## Tech events
+- QA Summit 2023 ( QA, Testy automatyczne, Testy manualne, Java, Python, Zarządzanie projektami, Selenium, Nowoczne rozwiązania)
+- PyRa - Poznan Python Programmers
