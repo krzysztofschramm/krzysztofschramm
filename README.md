@@ -35,7 +35,6 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
    - payment testing
    - API testing
    - usability testing
-   - voice testing
    - localization testing
 - <b>Learning SQL by Ben Forta (O'Reilly)</b>
    - retrieve data using the SQL SELECT statement
@@ -82,6 +81,7 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
 - Selenium IDE
 - Chrome Devtools
 ## My projects
+Here will be a code repository for the web application I made in django using python, html and css.
 ## Tech events
 - QA Summit 2023 ( QA, Testy automatyczne, Testy manualne, Java, Python, Zarządzanie projektami, Selenium, Nowoczne rozwiązania)
 - PyRa - Poznan Python Programmers
