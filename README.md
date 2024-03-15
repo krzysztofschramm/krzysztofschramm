@@ -63,23 +63,26 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
 - HTML/CSS basics
 - knowledge of testing procedures and the creation of test documentation
 - knowledge of Syllabus ISTQB Foundation level
+- able to write automated unit tests for functions and classes using python
 - basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
 - API testing
 - communicative English
-## Tools
-- PyCharm
-- Django
-- MySQL
-- GitHub
-- SQlite
-- Bootstrap 5
-- Trello
-- SLack
-- qTest
-- Postman
-- Selenium
-- Selenium IDE
-- Chrome Devtools
+## Tools 
+- PyCharm - IDE for python
+- pytest - framework to write test
+- Django - framework for app development
+- MySQL - for database management
+- GitHub - for code repository and learning
+- SQlite - relational data base wchich i used in django for my web app
+- Bootstrap 5 - fron-end development framework
+- Trello - for project management
+- Slack - communication with team
+- qTest - for bug tracking, project and test management
+- Jira - for bug tracking and project management
+- Postman - to build and test API's
+- Selenium IDE - tool for test automation
+- Selenium WebDriver - tool for test automation
+- Chrome Devtools - developer tools which can help in debbuging website
 ## My projects
 Here will be a code repository for the web application I made in django using python, html and css.
 ## Tech events
