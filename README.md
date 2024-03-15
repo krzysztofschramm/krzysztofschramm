@@ -85,6 +85,8 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
 - Chrome Devtools - developer tools which can help in debbuging website
 ## My projects
 Here will be a code repository for the web application I made in django using python, html and css.
+## Examples of my work
+Here I will attach samples of my work, such as bug reports, test cases, and test reports.
 ## Tech events
 - QA Summit 2023 ( QA, Testy automatyczne, Testy manualne, Java, Python, Zarządzanie projektami, Selenium, Nowoczne rozwiązania)
 - PyRa - Poznan Python Programmers
