@@ -64,7 +64,7 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
 - communicative English
 ## Tools 
 - PyCharm - IDE for python
-- pytest - framework to write test
+- pytest - testing framework
 - Django - framework for app development
 - MySQL - for database management
 - GitHub - for code repository and learning
