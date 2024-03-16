@@ -26,7 +26,7 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
    - bug reports
    - screenshots, screen recordings
    - browser logs, mobile device logs
-   - web debugging proxy(Charles Proxy and Fiddler)
+   - web debugging proxy (Charles Proxy and Fiddler)
    - personally identifiable information (PII)
    - charles proxy testing, paymant testing
    - API testing
