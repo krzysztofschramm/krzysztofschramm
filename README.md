@@ -24,18 +24,13 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
    - AcademyBugs.com
      - an interactive website that teaches what bugs are and how to report them
    - bug reports
-   - screenshots
-   - screen recordings
-   - browser logs
-   - mobile device logs
-   - web debugging proxy
-     - Charles Proxy and Fiddler
+   - screenshots, screen recordings
+   - browser logs, mobile device logs
+   - web debugging proxy(Charles Proxy and Fiddler)
    - personally identifiable information (PII)
-   - charles proxy testing
-   - payment testing
+   - charles proxy testing, paymant testing
    - API testing
-   - usability testing
-   - localization testing
+   - usability testing, localization testing
 - <b>Learning SQL by Ben Forta (O'Reilly)</b>
    - retrieve data using the SQL SELECT statement
    - sort, filter, and manipulate data
