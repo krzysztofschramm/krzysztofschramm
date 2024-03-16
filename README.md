@@ -41,7 +41,7 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
    - combine queries with UNION statements
    - insert, update, and delete data
    - get started with advanced SQL features
-- <b>Basics of manual software testing (Udemy)</b>
+- <b><a href="https://www.udemy.com/certificate/UC-267f330e-ba96-461b-a85c-0eebfd4fa643/">Basics of manual software testing (Udemy)</a></b>
    - testing web applications
    - testing theory
    - writing test cases
@@ -83,5 +83,6 @@ Here will be a code repository for the web application I made in django using py
 ## Examples of my work
 Here I will attach samples of my work, such as bug reports, test cases, and test reports.
 ## Tech events
+- Targi pracy IT 2024 (online)
 - QA Summit 2023 ( QA, Testy automatyczne, Testy manualne, Java, Python, Zarządzanie projektami, Selenium, Nowoczne rozwiązania)
 - PyRa - Poznan Python Programmers
