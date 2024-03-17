@@ -30,7 +30,6 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
    - personally identifiable information (PII)
    - charles proxy testing, paymant testing
    - API testing
-   - usability testing, localization testing
 - <b>Learning SQL by Ben Forta (O'Reilly)</b>
    - retrieve data using the SQL SELECT statement
    - sort, filter, and manipulate data
