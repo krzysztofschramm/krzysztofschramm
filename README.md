@@ -18,6 +18,7 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
   - rapidly resolve issues in an API using Postman
   - create regression tests with Postman for your API 
   - explore, visualize, and debug your API during development
+#### September 2023
 - <b>uTest Academy</b>
    - participating in live test cycles
    - testing basics
@@ -40,6 +41,7 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
    - combine queries with UNION statements
    - insert, update, and delete data
    - get started with advanced SQL features
+ #### August 2023
 - <b><a href="https://www.udemy.com/certificate/UC-267f330e-ba96-461b-a85c-0eebfd4fa643/">Basics of manual software testing (Udemy)</a></b>
    - testing web applications
    - testing theory
