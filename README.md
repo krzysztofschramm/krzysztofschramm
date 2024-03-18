@@ -86,4 +86,4 @@ Here I will attach samples of my work, such as bug reports, test cases, and test
 ## Tech events
 - Targi pracy IT 2024 (online)
 - QA Summit 2023 ( QA, Testy automatyczne, Testy manualne, Java, Python, Zarządzanie projektami, Selenium, Nowoczne rozwiązania)
-- PyRa - Poznan Python Programmers
+- PyRa - Poznan Python Programmers meetup group
