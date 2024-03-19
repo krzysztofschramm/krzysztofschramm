@@ -5,10 +5,17 @@
 Strongly motivated junior software tester candidate with a solid theoretical background, who is developing towards automated testing. The areas related to software development, specifically its quality, are fields that interest me, and in which I actively expand my skills and knowledge.
 
 ## Courses
+#### March 2024
+- <b><a href="https://university.atlassian.com/student/award/LWLrSSgupfZRmev63yAoh7vh/">Jira Software Fundamentals at Atlassian University</a></b>
+  - text
+- <b><a href="https://university.atlassian.com/student/award/rB8gjHnJ8bRiqBun41WhSJyC">Confluence Fundamentals at Atlassian University</a></b>
+  - text
+#### January 2024
 - <b>GitHub Fundamentals Bootcamp by Brent Laster (O'Reilly)</b>
   - work fluently in GitHub to do software development
   - take advantage of GitHub’s advanced features, such as Codespaces and Copilot
   - understand how to do additional automation tasks through GitHub
+#### December 2023
 - <b>Programming with Python: Beyond the Basics by Adrianne Dee (O'Reilly)</b>
   - how to read and write to CSV files
   - how to install libraries and make HTTP requests using the requests library
