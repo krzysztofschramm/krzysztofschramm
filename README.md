@@ -11,22 +11,22 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
 - <b><a href="https://university.atlassian.com/student/award/rB8gjHnJ8bRiqBun41WhSJyC">Confluence Fundamentals at Atlassian University</a></b>
   - text
 #### January 2024
-- <b>GitHub Fundamentals Bootcamp by Brent Laster (O'Reilly)</b>
+- <b><a href="https://www.oreilly.com/live-events/github-fundamentals-bootcamp/0636920099607/0636920099606/">GitHub Fundamentals Bootcamp by Brent Laster (O'Reilly)</a></b>
   - work fluently in GitHub to do software development
   - take advantage of GitHub’s advanced features, such as Codespaces and Copilot
   - understand how to do additional automation tasks through GitHub
 #### December 2023
-- <b>Programming with Python: Beyond the Basics by Adrianne Dee (O'Reilly)</b>
+- <b><a href="https://learning.oreilly.com/live-events/programming-with-python-beyond-the-basics/0636920338703/">Programming with Python: Beyond the Basics by Adrianne Dee (O'Reilly)</a></b>
   - how to read and write to CSV files
   - how to install libraries and make HTTP requests using the requests library
   - the basics of HTML and how to scrape a website
-- <b>API Testing with Postman by Dave Westerveld (O'Reilly)</b>
+- <b><a href="https://learning.oreilly.com/course/api-testing-with/9781789616569/">API Testing with Postman by Dave Westerveld (O'Reilly)</a></b>
   - effectively test an API 
   - rapidly resolve issues in an API using Postman
   - create regression tests with Postman for your API 
   - explore, visualize, and debug your API during development
 #### September 2023
-- <b>uTest Academy</b>
+- <b><a href="https://www.utest.com/why-utest">uTest Academy</a></b>
    - participating in live test cycles
    - testing basics
    - AcademyBugs.com
@@ -38,7 +38,7 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
    - personally identifiable information (PII)
    - charles proxy testing, paymant testing
    - API testing
-- <b>Learning SQL by Ben Forta (O'Reilly)</b>
+- <b><a href="https://learning.oreilly.com/course/learning-sql/9780134193700/">Learning SQL by Ben Forta (O'Reilly)</a></b>
    - retrieve data using the SQL SELECT statement
    - sort, filter, and manipulate data
    - create calculated fields
@@ -66,9 +66,13 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
 - HTML/CSS basics
 - knowledge of testing procedures and the creation of test documentation
 - knowledge of Syllabus ISTQB Foundation level
-- able to write automated unit tests for functions and classes using python
-- basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
+- able to write automated unit tests for functions and classes using Python
+- knowledge of HTTP protocol and its methods such as GET, POST, PUT, DELETE, and PATCH
+- understanding of client-server architecture and communication via HTTP
+- ability to analyze and interpret HTTP data
+- awareness of security issues related to HTTP, including SQL Injection, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF)
 - API testing
+- basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
 - communicative English
 ## Tools 
 - PyCharm - IDE for python
