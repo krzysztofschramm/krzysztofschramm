@@ -7,9 +7,13 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
 ## Courses
 #### March 2024
 - <b><a href="https://university.atlassian.com/student/award/LWLrSSgupfZRmev63yAoh7vh/">Jira Software Fundamentals at Atlassian University</a></b>
-  - text
+  - Jira navigation
+  - managing your work in Jira software
+  - Jira best practices
 - <b><a href="https://university.atlassian.com/student/award/rB8gjHnJ8bRiqBun41WhSJyC">Confluence Fundamentals at Atlassian University</a></b>
-  - text
+  - Conlufence navigation
+  - organizing and communicating your work in Confluence
+  - Confluence best practices
 #### January 2024
 - <b><a href="https://www.oreilly.com/live-events/github-fundamentals-bootcamp/0636920099607/0636920099606/">GitHub Fundamentals Bootcamp by Brent Laster (O'Reilly)</a></b>
   - work fluently in GitHub to do software development
