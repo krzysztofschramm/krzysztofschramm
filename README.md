@@ -15,6 +15,10 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
   - organizing and communicating your work in Confluence
   - Confluence best practices
 #### January 2024
+- <b><a href="https://courses.supersimple.dev/courses/html-css">HTML & CSS Full Course - Begginer to Pro</a></b>
+  - HTML basics
+  - CSS basics
+  - creating and styling simple web pages
 - <b><a href="https://www.oreilly.com/live-events/github-fundamentals-bootcamp/0636920099607/0636920099606/">GitHub Fundamentals Bootcamp by Brent Laster (O'Reilly)</a></b>
   - work fluently in GitHub to do software development
   - take advantage of GitHub’s advanced features, such as Codespaces and Copilot
