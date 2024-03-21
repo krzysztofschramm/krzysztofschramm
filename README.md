@@ -3,7 +3,7 @@
  
 ## About me
 Strongly motivated junior software tester candidate with a solid theoretical background, who is developing towards automated testing. The areas related to software development, specifically its quality, are fields that interest me, and in which I actively expand my skills and knowledge.
-![Design and Development](https://github.com/krzysztofschramm/krzysztofschramm/blob/main/TesterAdobeStock.jpeg?raw=true)
+![Design and Development](https://github.com/krzysztofschramm/krzysztofschramm/blob/main/TesterAdobeStock2.jpeg?raw=true)
 ## Courses
 #### March 2024
 - <b><a href="https://university.atlassian.com/student/award/LWLrSSgupfZRmev63yAoh7vh/">Jira Software Fundamentals at Atlassian University</a></b>
