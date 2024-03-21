@@ -15,7 +15,7 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
   - organizing and communicating your work in Confluence
   - Confluence best practices
 #### January 2024
-- <b><a href="https://courses.supersimple.dev/courses/html-css">HTML & CSS Full Course - Begginer to Pro</a></b>
+- <b><a href="https://courses.supersimple.dev/courses/html-css">HTML & CSS Full Course - Begginer to Pro (free version)</a></b>
   - HTML basics
   - CSS basics
   - creating and styling simple web pages
