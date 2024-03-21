@@ -29,10 +29,10 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
   - how to install libraries and make HTTP requests using the requests library
   - the basics of HTML and how to scrape a website
 - <b><a href="https://learning.oreilly.com/course/api-testing-with/9781789616569/">API Testing with Postman by Dave Westerveld (O'Reilly)</a></b>
-  - effectively test an API 
-  - rapidly resolve issues in an API using Postman
-  - create regression tests with Postman for your API 
-  - explore, visualize, and debug your API during development
+  - API testing 
+  - resolving issues in an API using Postman
+  - creating regression tests with Postman for your API 
+  - exploring, visualizing, and debugging API during development
 #### September 2023
 - <b><a href="https://www.utest.com/why-utest">uTest Academy</a></b>
    - participating in live test cycles
