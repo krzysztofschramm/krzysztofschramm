@@ -69,19 +69,18 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
    - Selenium IDE
    - Postman
 ## Tech skills
-- Python
-- SQL
-- HTML/CSS basics
-- knowledge of testing procedures and the creation of test documentation
-- knowledge of Syllabus ISTQB Foundation level
-- able to write automated unit tests for functions and classes using Python
-- knowledge of HTTP protocol and its methods such as GET, POST, PUT, DELETE, and PATCH
-- understanding of client-server architecture and communication via HTTP
-- ability to analyze and interpret HTTP data
-- awareness of security issues related to HTTP, including SQL Injection, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF)
-- API testing
-- basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
-- communicative English
+- <b>Python</b>
+- <b>SQL</b>
+- <b>HTML/CSS</b> basics
+- knowledge of <b>testing procedures</b> and the creation of <b>test documentation</b>
+- knowledge of Syllabus <b>ISTQB Foundation level</b>
+- able to write <b>automated unit tests</b> for functions and classes using Python
+- knowledge of <b>HTTP protocol</b> and its methods such as <b>GET</b>, <b>POST</b>, <b>PUT</b>, <b>DELETE</b>, and <b>PATCH</b>
+- understanding of <b>client-server architecture</b> and communication via <b>HTTP
+- awareness of <b>security</b> issues related to HTTP, including SQL Injection, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF)
+- <b>API testing</b>
+- basic knowledge about <b>software development models</b> (waterfall, v model, iterative and incremental model, agile)
+- communicative <b>English</b>
 ## Tools 
 - <b>PyCharm</b> - IDE for python
 - <b>pytest</b> - testing framework
