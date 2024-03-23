@@ -76,8 +76,8 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
 - knowledge of Syllabus <b>ISTQB Foundation level</b>
 - able to write <b>automated unit tests</b> for functions and classes using Python
 - knowledge of <b>HTTP protocol</b> and its methods such as <b>GET</b>, <b>POST</b>, <b>PUT</b>, <b>DELETE</b>, and <b>PATCH</b>
-- understanding of <b>client-server architecture</b> and communication via <b>HTTP
-- awareness of <b>security</b> issues related to HTTP, including SQL Injection, Cross-Site Scripting (XSS), and Cross-Site Request Forgery (CSRF)
+- understanding of <b>client-server architecture</b> and communication via HTTP
+- awareness of <b>security</b> issues related to HTTP, including <b>SQL Injection</b>, <b>Cross-Site Scripting</b> (XSS), and <b>Cross-Site Request Forgery</b> (CSRF)
 - <b>API testing</b>
 - basic knowledge about <b>software development models</b> (waterfall, v model, iterative and incremental model, agile)
 - communicative <b>English</b>
