@@ -83,21 +83,22 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
 - basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
 - communicative English
 ## Tools 
-- PyCharm - IDE for python
-- pytest - testing framework
-- Django - framework for app development
-- MySQL - for database management
-- GitHub - for code repository and learning
-- SQlite - relational data base wchich i used in django for my web app
-- Bootstrap 5 - fron-end development framework
-- Trello - for project management
-- Slack - communication with team
-- qTest - for bug tracking, project and test management
-- Jira - for bug tracking and project management
-- Postman - to build and test API's
-- Selenium IDE - tool for test automation
-- Selenium WebDriver - tool for test automation
-- Chrome Devtools - developer tools which can help in debbuging website
+- <b>PyCharm</b> - IDE for python
+- <b>pytest</b> - testing framework
+- <b>Django</b> - framework for app development
+- <b>MySQL</b> - for database management
+- <b>GitHub</b> - for code repository and learning
+- <b>SQlite</b> - relational data base wchich i used in django for my web app
+- <b>Bootstrap 5</b> - fron-end development framework
+- <b>Trello</b> - for project management
+- <b>Slack</b> - communication with team
+- <b>qTest</b> - for bug tracking, project and test management
+- <b>Jira</b> - for bug tracking and project management
+- <b>Confluence</b> - for creating, organizing, and sharing documents, ideas, and projects within teams or organizations.
+- <b>Postman</b> - to build and test API's
+- <b>Selenium IDE</b> - tool for test automation
+- <b>Selenium WebDriver</b> - tool for test automation
+- <b>Chrome Devtools</b> - developer tools which can help in debbuging website
 ## My projects
 Here will be a code repository for the web application I made in django using python, html and css.
 ## Examples of my work
