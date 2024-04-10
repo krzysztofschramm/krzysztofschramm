@@ -103,6 +103,7 @@ Here will be a code repository for the web application I made in django using py
 ## Examples of my work
 Here I will attach samples of my work, such as bug reports, test cases, and test reports.
 ## Tech events
+- TECH3CAMP #111 | TESTS (online) ("Czy da sie przetestować (i przetrwać) sztuczna inteligencję?" - Marek Konitz, "Automatyzacja testów po GUI to scam" - Radosław Smilgin, "Testy wydajnościowe: testerski obywatel drugiej kategorii, który powraca gdy jest już za późno" - Tomasz Klepacki)
 - QA Has Power #3 AI edition (Mariusz Listewnik - "Wszystko co chcielibyście wiedzieć o AI ISTQB", Bartłomiej Roszak - "Jak zapewnić jakość aplikacji AI od etapu badań do wdrożenia produkcyjnego?")
 - Targi pracy IT 2024 (online)
 - QA Summit 2023 ( QA, Testy automatyczne, Testy manualne, Java, Python, Zarządzanie projektami, Selenium, Nowoczne rozwiązania)
