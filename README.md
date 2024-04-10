@@ -103,6 +103,7 @@ Here will be a code repository for the web application I made in django using py
 ## Examples of my work
 Here I will attach samples of my work, such as bug reports, test cases, and test reports.
 ## Tech events
+- QA Has Power #3 AI edition (Mariusz Listewnik - "Wszystko co chcielibyście wiedzieć o AI ISTQB", Bartłomiej Roszak - "Jak zapewnić jakość aplikacji AI od etapu badań do wdrożenia produkcyjnego?")
 - Targi pracy IT 2024 (online)
 - QA Summit 2023 ( QA, Testy automatyczne, Testy manualne, Java, Python, Zarządzanie projektami, Selenium, Nowoczne rozwiązania)
 - PyRa - Poznan Python Programmers meetup group
