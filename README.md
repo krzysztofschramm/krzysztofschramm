@@ -99,9 +99,9 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
 - <b>Selenium WebDriver</b> - tool for test automation
 - <b>Chrome Devtools</b> - developer tools which can help in debbuging website
 ## My projects
-Here will be a code repository for the web application I made in django using python, html and css.
-## Examples of my work
-Here I will attach samples of my work, such as bug reports, test cases, and test reports.
+Here will be a code repository for asimple web application that  I made in Django using python, HTML and CSS.
+## Samples of my work
+### Test cases 
 ## Tech events
 - <b>TECH3CAMP #111</b> | TESTS (online) ("Czy da sie przetestować (i przetrwać) sztuczna inteligencję?" - Marek Konitz, "Automatyzacja testów po GUI to scam" - Radosław Smilgin, "Testy wydajnościowe: testerski obywatel drugiej kategorii, który powraca gdy jest już za późno" - Tomasz Klepacki)
 - <b>QA Has Power #3 AI edition</b> (Mariusz Listewnik - "Wszystko co chcielibyście wiedzieć o AI ISTQB", Bartłomiej Roszak - "Jak zapewnić jakość aplikacji AI od etapu badań do wdrożenia produkcyjnego?")
