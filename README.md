@@ -98,10 +98,15 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
 - <b>Selenium IDE</b> - tool for test automation
 - <b>Selenium WebDriver</b> - tool for test automation
 - <b>Chrome Devtools</b> - developer tools which can help in debbuging website
+## Samples of my work
+### Test cases
+<a href="https://allegro.pl.allegrosandbox.pl/">Allegro Sandbox</a> was used to create demo samples of <b>test cases</b>.
+- <b><a href="https://docs.google.com/spreadsheets/d/1mRtP7QFQZkS-JfWmCPWgESJERFowhqOZShW3smBxosA/edit?usp=sharing">Web application test cases</a></b>
+### Bug report
+Bug was found in the web application during the execution of <a href="https://docs.google.com/spreadsheets/d/1mRtP7QFQZkS-JfWmCPWgESJERFowhqOZShW3smBxosA/edit?usp=sharing">test cases</a>.
+- <b><a href="https://docs.google.com/spreadsheets/d/10dIbaEril33kkgdC7ci1ZDbpAS7L7vqwPlqnaGFEWDI/edit?usp=sharing">Web application bug report</a><b/>
 ## My projects
 Here will be a code repository for asimple web application that  I made in Django using python, HTML and CSS.
-## Samples of my work
-### Test cases 
 ## Tech events
 - <b>TECH3CAMP #111</b> | TESTS (online) ("Czy da sie przetestować (i przetrwać) sztuczna inteligencję?" - Marek Konitz, "Automatyzacja testów po GUI to scam" - Radosław Smilgin, "Testy wydajnościowe: testerski obywatel drugiej kategorii, który powraca gdy jest już za późno" - Tomasz Klepacki)
 - <b>QA Has Power #3 AI edition</b> (Mariusz Listewnik - "Wszystko co chcielibyście wiedzieć o AI ISTQB", Bartłomiej Roszak - "Jak zapewnić jakość aplikacji AI od etapu badań do wdrożenia produkcyjnego?")
