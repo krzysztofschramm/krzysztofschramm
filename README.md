@@ -104,12 +104,19 @@ Strongly motivated junior software tester candidate with a solid theoretical bac
 - <b><a href="https://docs.google.com/spreadsheets/d/1mRtP7QFQZkS-JfWmCPWgESJERFowhqOZShW3smBxosA/edit?usp=sharing">Web application test cases</a></b>
 ### Bug report
 Bug was found in the web application during the execution of <a href="https://docs.google.com/spreadsheets/d/1mRtP7QFQZkS-JfWmCPWgESJERFowhqOZShW3smBxosA/edit?usp=sharing">test cases</a>.
-- <b><a href="https://docs.google.com/spreadsheets/d/10dIbaEril33kkgdC7ci1ZDbpAS7L7vqwPlqnaGFEWDI/edit?usp=sharing">Web application bug report</a><b/>
+- <b><a href="https://docs.google.com/spreadsheets/d/10dIbaEril33kkgdC7ci1ZDbpAS7L7vqwPlqnaGFEWDI/edit?usp=sharing">Web application bug report</a></b>
 ## My projects
 Here will be a code repository for a simple web application that  I made in Django using python, HTML and CSS.
-## Tech events
+## Tech events 
 - <b>TECH3CAMP #111</b> | TESTS (online) ("Czy da sie przetestować (i przetrwać) sztuczna inteligencję?" - Marek Konitz, "Automatyzacja testów po GUI to scam" - Radosław Smilgin, "Testy wydajnościowe: testerski obywatel drugiej kategorii, który powraca gdy jest już za późno" - Tomasz Klepacki)
 - <b>QA Has Power #3 AI edition</b> (Mariusz Listewnik - "Wszystko co chcielibyście wiedzieć o AI ISTQB", Bartłomiej Roszak - "Jak zapewnić jakość aplikacji AI od etapu badań do wdrożenia produkcyjnego?")
 - <b>Targi pracy IT 2024</b> (online)
 - <b>QA Summit 2023</b> ( QA, Testy automatyczne, Testy manualne, Java, Python, Zarządzanie projektami, Selenium, Nowoczne rozwiązania)
 - <b>PyRa</b> - Poznan Python Programmers meetup group
+## Books I have read
+- [Certfikowany tester ISTQB® poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispv.htm?gad_source=1&gclid=CjwKCAjwl4yyBhAgEiwADSEjeI3f0ScoOQgY_R0qecNnMKRwHSQBmFPJSLudduQDKLNy2CmTeLXxrhoCrGIQAvD_BwE#format/d) (Adam Roman, Lucjan Stapp)
+- [Zawód Tester. Dd decyzji do zdobycia doświadczenia](https://ksiegarnia.pwn.pl/Zawod-tester.-Od-decyzji-do-zdobycia-doswiadczenia,743423772,p.html) (Radosław Smilgin)
+- [Python Crash Course 3rd Edition. A hands-on, project-based introduction to programming](https://nostarch.com/python-crash-course-3rd-edition) (Eric Matthes)
+
+
+
