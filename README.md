@@ -2,7 +2,11 @@
 <a href="https://www.linkedin.com/in/krzysztof-s-6b6a97288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
 ## About me
-Strongly motivated junior software tester candidate with a solid theoretical background, who is developing towards automated testing. The areas related to software development, specifically its quality, are fields that interest me, and in which I actively expand my skills and knowledge.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My name is Krzysztof Schramm. In the middle of last year, I graduated from the University of Economics in Poznań with a degree specializing in broad quality management. After completing my studies, I decided to shift my career path towards areas related to technology within the IT sector. During my studies, courses on databases, data analysis, and IT tools captured my attention and sparked my desire to immerse myself in this field for the long term. For over 8 months now, I have been training and acquiring knowledge in areas such as software testing and development, network communication, and coding, with a primary focus on knowledge and practices related to ensuring the quality of the software being developed or maintained. The portfolio below showcases my skills, and I am highly motivated to demonstrate their reliability in practice. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Regarding my work experience, I have been employed in several positions, mainly in retail/service sectors, where my duties were largely related to customer service. These experiences allowed me to master teamwork skills as well as a professional approach to customer relations.
+&nbsp;
+&nbsp;
 ![Design and Development](https://github.com/krzysztofschramm/krzysztofschramm/blob/main/TesterAdobeStock2.jpeg?raw=true)
 ## Courses
 #### March 2024
